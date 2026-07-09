@@ -48,7 +48,3 @@ JSL and HINDZINC rank highest on both valuation and resilience to macro stress. 
 - Credit scoring restricted to non-financial companies; banks/NBFCs require sector-specific metrics (CAR, NPA ratios) not covered here
 - Backtest sample size (5 stocks) is too small for statistical significance — a larger universe and longer time horizon would be needed to validate the Deal Score's real predictive power
 - GenAI scenario generation currently uses a fixed prompt; could be extended to pull live macro news for more current inputs
-
-## Author
-
-Built by [Your Name], IIT Kharagpur — as part of a quantitative finance portfolio project.
