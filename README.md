@@ -1,3 +1,4 @@
+https://trv39-corporate-credit-valuation-screener.streamlit.app/
 # AI-Augmented Corporate Credit & Valuation Screener
 
 A quantitative finance pipeline that screens Nifty Metal & Mining stocks by combining **Monte Carlo DCF valuation**, a **calibrated credit risk scorecard**, **peer-relative valuation**, and **GenAI-driven macro stress testing** into a single composite Deal Score — validated against real forward returns.
